@@ -1,0 +1,10 @@
+.hugo_build.lock
+public/
+node_modules/
+settings.json
+_gen/
+.vscode
+go.sum
+resources/
+vendor/
+hugo_stats.json
